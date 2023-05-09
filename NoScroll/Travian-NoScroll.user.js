@@ -27,3 +27,9 @@ else if (window.location.pathname == '/messages/sent')
     document.getElementsByClassName('footer')[0].style.display = 'none';
     document.getElementById("delete").style.display = "none";
 }
+else if (window.location.pathname == '/messages')
+{
+    document.getElementsByClassName('footer')[0].style.display = 'none';
+    document.getElementById("mark").style.display = "none";
+    document.getElementById("delete").style.display = "none";
+}
