@@ -7,6 +7,7 @@
 
 // @include     *://*.travian.*/report*
 // @include     *://*.travian.*/messages*
+// @include     *://*.travian.*
 // ==/UserScript==
 
 if (window.location.pathname == '/report')
@@ -33,3 +34,6 @@ else if (window.location.pathname == '/messages')
     document.getElementById("mark").style.display = "none";
     document.getElementById("delete").style.display = "none";
 }
+
+// Hide stuff that are replaced by ResourceBarPlus
+document.getElementById("sidebarBoxLinklist").style.display = "none";
