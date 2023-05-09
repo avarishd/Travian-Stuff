@@ -6,7 +6,7 @@ Click on any script you want to install:
 
 [NoScroll](https://github.com/avarishd/Travian-Stuff/raw/main/NoScroll/Travian-NoScroll.user.js)
 
-[ReportHighlighter](https://github.com/avarishd/Travian-Stuff/blob/main/ReportHighlighter/Travian-Report-Highlighter.user.js)
+[ReportHighlighter](https://github.com/avarishd/Travian-Stuff/raw/main/ReportHighlighter/Travian-Report-Highlighter.user.js)
 
 The script will be opened in your userscript manager. Click Install.
 
